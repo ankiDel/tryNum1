@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ankiDel/tryNum1/issues"
   },
-  "homepage": "https://github.com/ankiDel/tryNum1"
+  "homepage": "https://github.com/ankiDel/tryNum1",
+  "devDependencies": {
+    "express": "^4.10.2"
+  }
 }
